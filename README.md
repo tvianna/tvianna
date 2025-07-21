@@ -7,7 +7,6 @@
 🚀 I have extensive experience in development using Node.js and TypeScript.<br/>
 🔧 Additionally, I have experience with other technologies such as: AWS, SQL and NoSQL databases, NestJS, unit testing, GIT, Redis, and Docker.<br/>
 🔭 I’m currently working on developing mobile applications using Flutter. I'm engaged in various projects that leverage Flutter's powerful framework to create cross-platform mobile apps with rich user interfaces and seamless performance.<br/>
-🌱 I’m currently learning more about Flutter to deepen my understanding and proficiency in this exciting technology. I'm actively exploring Flutter features, UI design principles, state management techniques, and best practices to enhance my development skills and deliver top-notch mobile experiences.<br/>
 
 ## 💬 My Interests
 
